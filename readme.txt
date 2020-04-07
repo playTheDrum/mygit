@@ -3,4 +3,4 @@ git is free software.
 aaaaa
 bbbb
 ccccc
-ddddd
+aaa bbb ccc ddd
